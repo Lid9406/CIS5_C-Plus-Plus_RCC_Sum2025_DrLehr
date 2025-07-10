@@ -3,7 +3,11 @@ This is a student repository for the CSC/CIS 5 - Programming Concepts and Method
 
 Professor:  Dr. Mark Lehr
 
-Campus: Riverside City College 
+Campus: Riverside City College
+
+  Business, Law, and Computer Information Systems Building
+
+Riverside, California, USA
 
 Riverside Community College District
 
