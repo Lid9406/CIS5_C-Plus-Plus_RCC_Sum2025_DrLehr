@@ -1,0 +1,13 @@
+Version 2.1 – Dice Value Mapping Enhancement
+
+- Use same loop and scoring system from v2.0.1
+- Modify output so each die roll shows symbolic mapping:
+    - 1 → "⚀"
+    - 2 → "⚁"
+    - 3 → "⚂"
+    - 4 → "⚃"
+    - 5 → "⚄"
+    - 6 → "⚅"
+- Replace numeric roll display with Unicode symbol
+- Maintain round-by-round score update and formatted display
+- Display final results with symbolic flair

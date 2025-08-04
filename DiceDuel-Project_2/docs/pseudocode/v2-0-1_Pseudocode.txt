@@ -1,0 +1,10 @@
+Version 2.0.1 – Output Formatting Refinement
+
+- Repeat core loop from v2.0
+- Add round-by-round output display:
+    - Print round number
+    - Print each roll result
+    - Display current score after each round
+- At loop end:
+    - Print final outcome using formatted alignment
+    - Ensure spacing and visual clarity for display

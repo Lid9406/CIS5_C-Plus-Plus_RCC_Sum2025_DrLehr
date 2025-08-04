@@ -1,0 +1,13 @@
+Version 2.0 – Dice Duel Core Mechanics
+
+- Initialize Player 1 and Player 2 scores to 0
+- Loop: For 10 rounds
+    - Roll a die for Player 1 → store in P1_Roll
+    - Roll a die for Player 2 → store in P2_Roll
+    - Compare P1_Roll and P2_Roll
+        - If P1 > P2 → add 1 point to Player 1
+        - If P2 > P1 → add 1 point to Player 2
+        - If equal → no points awarded
+- After loop:
+    - Display final scores for both players
+    - Determine and display winner or tie outcome

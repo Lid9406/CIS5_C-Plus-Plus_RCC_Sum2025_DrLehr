@@ -1,0 +1,6 @@
+Dice Duel Game Log – v2.2
+Players: Mr. Beanz vs. Mr. Froot
+Round 1: Mr. Beanz rolled 4, Mr. Froot rolled 6
+Round 2: Mr. Beanz rolled 3, Mr. Froot rolled 1
+Round 3: Mr. Beanz rolled 2, Mr. Froot rolled 3
+Final Score: Mr. Beanz (1) vs. Mr. Froot (2)
