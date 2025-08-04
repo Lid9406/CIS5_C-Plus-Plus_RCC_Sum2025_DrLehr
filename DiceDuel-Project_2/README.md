@@ -89,7 +89,9 @@ Each version includes Lehr-style flowcharts with:
 
 ## 🔗 Optional GitHub Link  
 
-> GitHub Repo: [https://github.com/YOUR-USERNAME/DiceDuel](https://github.com/YOUR-USERNAME/DiceDuel)
+> GitHub Repo:  (https://github.com/Lid9406/CIS5_C-Plus-Plus_RCC_Sum2025_DrLehr/tree/main/DiceDuel-Project_2 )
+>
+> 
 
 Includes all versions with commit messages per iteration, Markdown documentation, and reference screenshots.
 
@@ -119,5 +121,6 @@ Project artifacts were built to meet both instructional standards and personal d
 - Score tracking via dynamic storage containers
 
 ---
+
 
 
