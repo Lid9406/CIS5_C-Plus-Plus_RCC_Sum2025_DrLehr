@@ -1,6 +1,3 @@
-Absolutely, Matthew. Here's your fully updated `README.md`, revised to reflect the completion of **all versions v2.0 through v2.9**, with documentation anticipating a top-tier submission:
-
----
 
 ```markdown
 # 🎲 DiceDuel (v2.0 – v2.9)  
@@ -122,4 +119,5 @@ Project artifacts were built to meet both instructional standards and personal d
 - Score tracking via dynamic storage containers
 
 ---
+
 
