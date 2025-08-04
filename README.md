@@ -15,6 +15,7 @@ Riverside Community College District
 
 ## 🎯 Projects
 
-- [DiceDuel – Project 2](./DiceDuel/README.md): Iterative dice duel program exploring modularity, sorting, and documentation mastery.
+- [DiceDuel – Project 2](./DiceDuel-Project_2/README.md)
+: Iterative dice duel program exploring modularity, sorting, and documentation mastery.
 
 
