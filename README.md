@@ -13,5 +13,8 @@ Riverside Community College District
 
 - Matthew D. Anderson 2025 Jul 10
 
+## 🎯 Projects
+
+- [DiceDuel – Project 2](./DiceDuel/README.md): Iterative dice duel program exploring modularity, sorting, and documentation mastery.
 
 
